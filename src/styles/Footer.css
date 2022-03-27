@@ -1,0 +1,50 @@
+.Footer-body{
+    background-color: #8C634A;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: calc(10px + 2vmin);
+    color: #0D0D0D;
+
+}
+.Footer-Icon {
+  margin-left: 10px;
+  height: 5vmin;
+  color: #F1E5D8;
+  text-decoration: none;
+}
+
+.Footer-Logo-Container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 5px;
+}
+a{
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+.Footer-Link{
+  font-size: calc(4px + 1vmin);
+  margin: 5px;
+  min-width: 5vh;
+  color: #F1E5D8;
+  text-decoration: none;
+
+}
+.Footer-Link-Container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Footer-CP{
+  color: #F1E5D8;
+  font-size: calc(5px + 1vmin);
+
+}
