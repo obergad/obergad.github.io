@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2332a283.chunk.css",
+    "main.js": "/static/js/main.18bf38f6.chunk.js",
+    "main.js.map": "/static/js/main.18bf38f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b209f538.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b209f538.js.map",
+    "static/css/2.907a0915.chunk.css": "/static/css/2.907a0915.chunk.css",
+    "static/js/2.88c866af.chunk.js": "/static/js/2.88c866af.chunk.js",
+    "static/js/2.88c866af.chunk.js.map": "/static/js/2.88c866af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.907a0915.chunk.css.map": "/static/css/2.907a0915.chunk.css.map",
+    "static/css/main.2332a283.chunk.css.map": "/static/css/main.2332a283.chunk.css.map",
+    "static/js/2.88c866af.chunk.js.LICENSE.txt": "/static/js/2.88c866af.chunk.js.LICENSE.txt",
+    "static/media/Resume.80656a97.pdf": "/static/media/Resume.80656a97.pdf",
+    "static/media/me2.240db7fd.jpg": "/static/media/me2.240db7fd.jpg",
+    "static/media/me3.359267ab.jpg": "/static/media/me3.359267ab.jpg",
+    "static/media/300.css": "/static/media/roboto-vietnamese-300-normal.af9afdc1.woff2",
+    "static/media/400.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
+    "static/media/700.css": "/static/media/roboto-vietnamese-700-normal.3096f18a.woff2",
+    "static/media/App.css": "/static/media/tokyo.39d20bc6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b209f538.js",
+    "static/css/2.907a0915.chunk.css",
+    "static/js/2.88c866af.chunk.js",
+    "static/css/main.2332a283.chunk.css",
+    "static/js/main.18bf38f6.chunk.js"
+  ]
+}
