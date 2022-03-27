@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+"homepage" : "https://{your_github_username}.github.io/{app-name}"
+
+#{your_github_username} - Your GitHub username
+# {app-name} - Name of your application
