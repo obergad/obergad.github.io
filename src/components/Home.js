@@ -6,7 +6,7 @@ function Home() {
     return(
       <div className="App-body">
       <p  className="homeText">This website is still under construction as of March 2022</p>
-      <p  className="homeText">Some buttons and links may not work.</p>
+      <p  className="homeText">Some buttons and links may not work</p>
       <img src={logo} className="profile-picture" alt="profilepic"/>
       <p className="homeText">
         Hi, I'm Adam.

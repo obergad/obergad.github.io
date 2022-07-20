@@ -2,7 +2,7 @@ import React from "react";
 import github from '../media/github.png';
 import linkedin from '../media/linkedin.png';
 import '../styles/App.css';
-import Pdf from '../media/Resume.pdf';
+import Pdf from '../media/resume_v1.2.0.pdf';
 function Header() {
     return(
       <header className="App-header">

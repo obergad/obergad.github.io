@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "name": "Computer Graphics",
+    "description": "Through my time at OSU I have taken many differnt classes focusing on Computer Graphics that taught me OpenGL and GLSL. These classes include, Geometric Model, Intro to Computer Graphics, and Computer Graphics Shaders. My capstone Project also had me using a lot of OpenGL.",
+    "image": "media/stanfordbunny.png"
+  },
+  {
+    "id": "2",
+    "name": "3D Modeling and Animation",
+    "description": "I have experience in Blender through my Capstone Project, as well as some of the classes I've taken, such as Computer Animation.",
+    "image": "media/mars.png"
+  },
+  {
+    "id":"3",
+    "name": "Programming Languages",
+    "description": "I have experience in C, C++, Rust, and Python from the many classes I have taken.",
+    "image": "media/programming.png"
+  },
+
+  {
+  "id": "5",
+  "name": "Scripting Languages",
+  "description": "I have experience in both C# and Lua from my video game modding experience.",
+  "image": "media/programming.png"
+  },
+  {
+  "id": "6",
+  "name": "Web and Mobile App Development",
+  "description": "I have experience in HTML, CSS, Vue.js, React.js, and SQL from classes I've taken as well as my time at The Sustainability Office.",
+  "image": "media/webimage.png"
+  },
+  {
+  "id": "7",
+  "name": "Soft Skills",
+  "description": "I have many different soft skills that help me be successfull. This includes, Problem Solver, Adaptive Learner, Teamwork Oriented, Meticulous, Friendly, and many more.",
+  "image": "media/softskills.png"
+  }
+]
