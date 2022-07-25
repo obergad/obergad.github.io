@@ -2,7 +2,9 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://obergad.github.io/",
   "dependencies": {
+    "-": "0.0.1",
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
     "@fontsource/roboto": "^4.5.5",
@@ -19,6 +21,7 @@
     "react-scroll": "^1.8.6",
     "react-starfield-animation": "^1.0.1",
     "react-youtube": "^7.14.0",
+    "save-dev": "0.0.1-security",
     "styled-components": "^5.3.5",
     "web-vitals": "^1.1.2"
   },

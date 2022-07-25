@@ -58,7 +58,6 @@
     border-radius: 10px;
     border-color: #C58E56;
     border-width: medium;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,7 +68,6 @@
     margin: 1em;
     padding: 0.67em;
     overflow: hidden;
-    text-decoration: none;
     font-size: 1em;
     outline: none;
     color: #FFF;
@@ -90,7 +88,13 @@
 .button:after {
     content: '';
     position: absolute;
-    top: 0.67em;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) );
+    height: 100%;
+    position: absolute;
+    top: 0;
     left: 0;
     width: 100%;
     text-align: center;
@@ -128,7 +132,6 @@
 .button:hover span,
 .button:active span {
     opacity: 0;
-
     -webkit-transform: scale(0.3);
     -moz-transform: scale(0.3);
     -ms-transform: scale(0.3);
@@ -145,6 +148,7 @@
 .button:active:after {
     opacity: 1;
     font-size: .5em;
+
     -webkit-transform: translate(0,0);
     -moz-transform: translate(0,0);
     -ms-transform: translate(0,0);
