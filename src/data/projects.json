@@ -2,38 +2,88 @@
   {
     "id": "1",
     "name": "Flow Simulation",
-    "description": "Through my time at OSU I have taken many differnt classes focusing on Computer Graphics that taught me OpenGL and GLSL. These classes include, Geometric Model, Intro to Computer Graphics, and Computer Graphics Shaders. My capstone Project also had me using a lot of OpenGL.",
-    "image": "media/stanfordbunny.png"
+    "description": "In this project I used OpenGL and C++ to build a realistic fluid flow simulation. I did this by creating a grid arround a plane. This in the center of each cube in the grid there was a vector. These vectors, when given a direction and velocity could simulate a flow interaction. This was done by using Navier–Stokes equations and setting differnt velocities and densities to the grid at each vector. ",
+    "credits": [
+      {
+        "name": "",
+        "role": "Lead Procedural Generation API Designer",
+        "email": ""
+      }
+      ],
+    "Role": "",
+    "imageLink": "",
+    "webpageLink" : "",
+    "youtubeLink":
   },
   {
     "id": "2",
     "name": "Project Space",
-    "description": "I have experience in Blender through my Capstone Project, as well as some of the classes I've taken, such as Computer Animation.",
-    "image": "media/mars.png"
+    "description": "Project Space is a fully custom built game engine developed from the ground up. This engine uses OpenGL and C++ to render graphics to the screen, apply physiscs, procedurally generate planets and entire solar systems, and much more. Through this project I developed models and textures that were used to bring Project Space to life, I also assisted with developing the user interface and program the engine itself. My main role in Project Space was as Team Lead. I ensured that our project was subbmitted on time and all our capstone course work was done accurately and efficently.",
+    "Role": "",
+    "credits": [
+      {
+        "name": "Jason 'Alex' Graalum",
+        "role": "Lead Procedural Generation API Designer",
+        "email": ""
+      },
+      {
+        "name": "Josh Bell",
+        "role": "Lead UI Designer / Outreach Director",
+        "email": ""
+      },
+      {
+        "name": "James Taylor",
+        "role": "Lead Game Engine Designer",
+        "email": "jamestaylor00001000@gmail.com"
+      },
+      {
+        "name": "Mike Baylie",
+        "role": "",
+        "email": ""
+      }
+    ],
+    "imageLink": "",
+    "webpageLink" : "",
+    "youtubeLink":
   },
   {
-    "id":"3",
-    "name": "Batman Vs. Spider-Man",
-    "description": "I have experience in C, C++, Rust, and Python from the many classes I have taken.",
-    "image": "media/programming.png"
+  	"id": "3",
+  	"name": "Paper Toss Simulator",
+  	"description": "Paper Toss Simulator",
+  	"credits": [
+      {
+  			"name": "Jason 'Alex' Graalum",
+  			"role": "",
+        "email": ""
+  		},
+  		{
+  			"name": "",
+  			"role": "",
+        "email": ""
+  		}
+  	],
+  	"imageLink": "",
+  	"webpageLink": "",
+  	"youtubeLink": ""
   },
-
   {
-  "id": "5",
-  "name": "Scripting Languages",
-  "description": "I have experience in both C# and Lua from my video game modding experience.",
-  "image": "media/programming.png"
+    "id": "4",
+    "name": "Spider-Man vs. Batamn",
+    "description": "",
+    "credits": [
+      {
+  			"name": "",
+  			"role": "",
+        "email": ""
+  		},
+  		{
+  			"name": "",
+  			"role": "",
+        "email": ""
+  		}
+  	],
+    "imageLink": "",
+    "webpageLink" : "",
+    "youtubeLink":
   },
-  {
-  "id": "6",
-  "name": "Web and Mobile App Development",
-  "description": "I have experience in HTML, CSS, Vue.js, React.js, and SQL from classes I've taken as well as my time at The Sustainability Office.",
-  "image": "media/webimage.png"
-  },
-  {
-  "id": "7",
-  "name": "Soft Skills",
-  "description": "I have many different soft skills that help me be successfull. This includes, Problem Solver, Adaptive Learner, Teamwork Oriented, Meticulous, Friendly, and many more.",
-  "image": "media/softskills.png"
-  }
 ]
