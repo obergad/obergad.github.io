@@ -27,13 +27,25 @@
   {
   "id": "6",
   "name": "Web and Mobile App Development",
-  "description": "I have experience in HTML, CSS, Vue.js, React.js, and SQL from classes I've taken as well as my time at The Sustainability Office.",
+  "description": "I have experience in HTML, CSS, Vue.js, React.js, and SQL from classes I've taken as well as my time at The Sustainability Office. This website was also hand built using react :D",
   "image": "media/webimage.png"
   },
   {
   "id": "7",
   "name": "Soft Skills",
-  "description": "I have many different soft skills that help me be successfull. This includes, Problem Solver, Adaptive Learner, Teamwork Oriented, Meticulous, Friendly, and many more.",
+  "description": "I have many different soft skills that help me be successfull. This includes, Problem Solver, Adaptive Learner, Teamwork Oriented, Meticulous, Friendly, Leadership, and many more.",
   "image": "media/softskills.png"
+  },
+  {
+  "id": "8",
+  "name": "Project Development",
+  "description": "During my time at OSU I developed many different projects. Each of these projects went through many phases including design, implementation, testing, debugging, and publishing. Durring my time at OSU I developed many different projects. Each of these projects went through many phases including design, implementation, testing, debugging, and publishing. I frequently used an Agile format to develop these projects as I found it to be the best way to keep a project alive throughout development.",
+  "image": "media/projectdev.png"
+  },
+  {
+  "id": "",
+  "name": "Video Game Development",
+  "description": "I have gone through many stages of developing video games, including design, implementation, testing and publishing. I have spent time monitoring bugs, logging, as well as patch implementation, and development using The Unreal Engine blueprint system in Unreal Engine 4.7 and 5 and through my custom game engine, Project Space.",
+  "image": "media/vidgamedev.jpg"
   }
 ]

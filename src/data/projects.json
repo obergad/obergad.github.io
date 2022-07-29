@@ -5,21 +5,21 @@
     "description": "In this project I used OpenGL and C++ to build a realistic fluid flow simulation. I did this by creating a grid arround a plane. This in the center of each cube in the grid there was a vector. These vectors, when given a direction and velocity could simulate a flow interaction. This was done by using Navier–Stokes equations and setting differnt velocities and densities to the grid at each vector. ",
     "credits": [
       {
-        "name": "",
-        "role": "Lead Procedural Generation API Designer",
+        "name": "Eugene Zhang",
+        "role": "Instructor",
         "email": ""
       }
       ],
-    "Role": "",
+    "role": "Lead Engineer",
     "imageLink": "",
     "webpageLink" : "",
-    "youtubeLink":
+    "youtubeLink": ""
   },
   {
     "id": "2",
     "name": "Project Space",
     "description": "Project Space is a fully custom built game engine developed from the ground up. This engine uses OpenGL and C++ to render graphics to the screen, apply physiscs, procedurally generate planets and entire solar systems, and much more. Through this project I developed models and textures that were used to bring Project Space to life, I also assisted with developing the user interface and program the engine itself. My main role in Project Space was as Team Lead. I ensured that our project was subbmitted on time and all our capstone course work was done accurately and efficently.",
-    "Role": "",
+    "role": "Lead Graphics Designer / Team Leader",
     "credits": [
       {
         "name": "Jason 'Alex' Graalum",
@@ -38,27 +38,28 @@
       },
       {
         "name": "Mike Baylie",
-        "role": "",
+        "role": "Capstone Project Instructor",
         "email": ""
       }
     ],
     "imageLink": "",
     "webpageLink" : "",
-    "youtubeLink":
+    "youtubeLink": "https://youtu.be/c3ym_gHkzxU"
   },
   {
   	"id": "3",
   	"name": "Paper Toss Simulator",
-  	"description": "Paper Toss Simulator",
-  	"credits": [
+  	"description": "Paper Toss Simulator is a Virtual Reality experience built in Unreal Engine 4.7. This game has the player tosses a paper ball into a variety of trashcans for different points. These points can then be spent on different skins for the ball.",
+    "role": "",
+    "credits": [
       {
   			"name": "Jason 'Alex' Graalum",
-  			"role": "",
+  			"role": "Gameplay Engineer",
         "email": ""
   		},
   		{
-  			"name": "",
-  			"role": "",
+  			"name": "Raffaele de Amicis",
+  			"role": "Instructor",
         "email": ""
   		}
   	],
@@ -69,21 +70,22 @@
   {
     "id": "4",
     "name": "Spider-Man vs. Batamn",
-    "description": "",
+    "description": "This animation project was built using Blender. Many of the models were downloaded from mecabricks.com and animated by Devin and I.",
+    "role": "Co-Animator",
     "credits": [
       {
-  			"name": "",
-  			"role": "",
-        "email": ""
+  			"name": "Devin Bright",
+  			"role": "Co-Animator",
+        "email": "Devinnatbright@gmail.com"
   		},
   		{
-  			"name": "",
-  			"role": "",
+  			"name": "Yue Zhang",
+  			"role": "Instructor",
         "email": ""
   		}
   	],
     "imageLink": "",
     "webpageLink" : "",
-    "youtubeLink":
+    "youtubeLink": ""
   },
 ]
