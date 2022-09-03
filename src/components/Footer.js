@@ -28,7 +28,6 @@ function Home() {
           </div>
 
           <div className="Footer-Link-Container">
-            <a className="Footer-Link">About</a>
             <a className="Footer-Link">Contact</a>
             <a href={Pdf} target="_blank"  className="Footer-Link">Resume</a>
           </div>

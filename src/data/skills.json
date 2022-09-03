@@ -8,44 +8,43 @@
   {
     "id": "2",
     "name": "3D Modeling and Animation",
-    "description": "I have experience in Blender through my Capstone Project, as well as some of the classes I've taken, such as Computer Animation.",
+    "description": "I have experience in Blender through my Capstone Project, as well as some of the classes I've taken, such as Computer Animation. I enjoy using the the shader graph editor to crate photorealistic extraterrestrial objects, such as the planet used as the background here.",
     "image": "media/mars.png"
   },
   {
     "id":"3",
     "name": "Programming Languages",
-    "description": "I have experience in C, C++, Rust, and Python from the many classes I have taken.",
+    "description": "I have experience in C, C++, Rust, and Python from the many classes I have taken and in both C# and Lua from my video game modding experience.",
     "image": "media/programming.png"
   },
-
   {
   "id": "5",
-  "name": "Scripting Languages",
-  "description": "I have experience in both C# and Lua from my video game modding experience.",
-  "image": "media/programming.png"
-  },
-  {
-  "id": "6",
   "name": "Web and Mobile App Development",
   "description": "I have experience in HTML, CSS, Vue.js, React.js, and SQL from classes I've taken as well as my time at The Sustainability Office. This website was also hand built using react :D",
   "image": "media/webimage.png"
   },
   {
-  "id": "7",
+  "id": "6",
   "name": "Soft Skills",
   "description": "I have many different soft skills that help me be successfull. This includes, Problem Solver, Adaptive Learner, Teamwork Oriented, Meticulous, Friendly, Leadership, and many more.",
   "image": "media/softskills.png"
   },
   {
-  "id": "8",
+  "id": "7",
   "name": "Project Development",
   "description": "During my time at OSU I developed many different projects. Each of these projects went through many phases including design, implementation, testing, debugging, and publishing. Durring my time at OSU I developed many different projects. Each of these projects went through many phases including design, implementation, testing, debugging, and publishing. I frequently used an Agile format to develop these projects as I found it to be the best way to keep a project alive throughout development.",
   "image": "media/projectdev.png"
   },
   {
-  "id": "",
+  "id": "8",
   "name": "Video Game Development",
   "description": "I have gone through many stages of developing video games, including design, implementation, testing and publishing. I have spent time monitoring bugs, logging, as well as patch implementation, and development using The Unreal Engine blueprint system in Unreal Engine 4.7 and 5 and through my custom game engine, Project Space.",
   "image": "media/vidgamedev.jpg"
-  }
+},
+{
+"id": "",
+"name": "Leadership",
+"description": "At the start of the Covid-19 Pandemic a lot of my fellow Computer Science students were lost and felt alone. I created a CS community, with the help of a few colleagues, that allowed for over 1,500 students to feel welcome and receive help with coursework. I lead a team of moderators that ensured every student felt safe and welcomed into this community of peers. ",
+"image": "media/leadership.png"
+}
 ]

@@ -1,0 +1,41 @@
+.Projects-body{
+    background-color: #C7D1D9;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 1vmin);
+    color: #0D0D0D;
+}
+
+.Projects-Header{
+  color: #C58E56;
+  font-size: calc(10px + 3vmin);
+  margin: 2px;
+  font-weight: bold;
+}
+.Projects-container{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.Left-column{
+  justify-content: center;
+  display: flex;
+  align-items:  center;
+  flex-direction: column;
+  }
+.Project-description{
+  text-align: center;
+  margin-left: 10px;
+  width: 75%;
+  font-size: 15px;
+}
+.Project-Video{
+
+}
+.Project-box{
+  width: 50%;
+
+}

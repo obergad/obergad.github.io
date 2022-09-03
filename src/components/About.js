@@ -38,15 +38,9 @@ function About() {
         <div className="About-Text-Container">
           <h1 className="About-Title">Adam Oberg</h1>
           <p className="About-Text-Header">OSU '22, Computer Science, Simulation and Game Programming </p>
-          <p className="About-Text">I'm a Undergraduate Student at Oregon State University graduating in Spring of 2022 and my passion is creating and playing video games.</p>
-          <p className="About-Text">My interests are Computer Graphics, 3D Modeling, 3D Animation, Video Games, amd Website Development.  </p>
-          <h3 className="About-Button-Header">Learn More About My:</h3>
-          <div className="About-Button-Container">
-          <Button className= "About-Button" sx={{margin:2.5}} variant="contained" >Skills</Button>
-          <Button className= "About-Button" sx={{margin:2.5}} variant="contained" disabled>Projects</Button>
-          <Button className= "About-Button" sx={{margin:2.5}} variant="contained" disabled>Work Experience</Button>
-          <Button className= "About-Button" sx={{margin:2.5}} href={Pdf} target="_blank"variant="contained">Resume</Button>
-          </div>
+          <p className="About-Text">I'm a recently graduated CS professional with interestes in Computer Graphics, 3D Modeling, and Video Game Development. In my free time I enjoy creating procedurally generated artworks of various extraterrestrial objects, developing add-ons for various video games, and creating my own personal passion project video game. </p>
+          <p className="About-Text">I am interested in starting my carrer and growing my expertise. With a passion for creativiy and ingenuity I hope to develop projects that bring a sense of enjoyment and wonder to the hearts of many. </p>
+          <h4 className="About-Button-Header">Learn More About Me By Scrolling Below</h4>
         </div>
 
       </div>

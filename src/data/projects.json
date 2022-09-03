@@ -7,13 +7,13 @@
       {
         "name": "Eugene Zhang",
         "role": "Instructor",
-        "email": ""
+        "email": "N/A"
       }
       ],
     "role": "Lead Engineer",
     "imageLink": "",
     "webpageLink" : "",
-    "youtubeLink": ""
+    "youtubeLink": "https://youtube.com/embed/9oKkSDH8pbc"
   },
   {
     "id": "2",
@@ -24,12 +24,12 @@
       {
         "name": "Jason 'Alex' Graalum",
         "role": "Lead Procedural Generation API Designer",
-        "email": ""
+        "email": "N/A"
       },
       {
         "name": "Josh Bell",
         "role": "Lead UI Designer / Outreach Director",
-        "email": ""
+        "email": "N/A"
       },
       {
         "name": "James Taylor",
@@ -39,12 +39,12 @@
       {
         "name": "Mike Baylie",
         "role": "Capstone Project Instructor",
-        "email": ""
+        "email": "N/A"
       }
     ],
     "imageLink": "",
     "webpageLink" : "",
-    "youtubeLink": "https://youtu.be/c3ym_gHkzxU"
+    "youtubeLink": "https://youtube.com/embed/c3ym_gHkzxU"
   },
   {
   	"id": "3",
@@ -55,12 +55,12 @@
       {
   			"name": "Jason 'Alex' Graalum",
   			"role": "Gameplay Engineer",
-        "email": ""
+        "email": "N/A"
   		},
   		{
   			"name": "Raffaele de Amicis",
   			"role": "Instructor",
-        "email": ""
+        "email": "N/A"
   		}
   	],
   	"imageLink": "",
@@ -70,7 +70,7 @@
   {
     "id": "4",
     "name": "Spider-Man vs. Batamn",
-    "description": "This animation project was built using Blender. Many of the models were downloaded from mecabricks.com and animated by Devin and I.",
+    "description": "This animation project was built using Blender. Many of the models were downloaded from mecabricks.com and animated by Devin and I. While not fully rendered, this project tested Devin and I's abilities to apply the fundamental animation princibles to 3D figures. ",
     "role": "Co-Animator",
     "credits": [
       {
@@ -81,11 +81,11 @@
   		{
   			"name": "Yue Zhang",
   			"role": "Instructor",
-        "email": ""
+        "email": "N/A"
   		}
   	],
     "imageLink": "",
     "webpageLink" : "",
-    "youtubeLink": ""
-  },
+    "youtubeLink": "https://www.youtube.com/embed/QhB_061iVDs"
+  }
 ]

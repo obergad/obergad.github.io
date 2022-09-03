@@ -8,11 +8,7 @@ function Header() {
       <header className="App-header">
       <a><h1 href = "../" className="header-text">Adam Oberg</h1></a>
       <div className="Icons">
-      <a href = "#about" className="text-Links">About</a>
-      <a href = "../" className="text-Links">Skills</a>
-      <a href = "../" className="text-Links">Projects</a>
-      <a href = "../" className="text-Links">Experience</a>
-      <a href = "../" className="text-Links">Contact</a>
+      <a className="text-Links">Contact</a>
       <a href={Pdf} target="_blank" className="text-Links">Resume</a>
       <a
         className="Links"

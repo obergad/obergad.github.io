@@ -28,6 +28,7 @@
   position: fixed;
   width: 100%;
   flex-direction: row;
+  z-index: 1;
   justify-content: space-around;
   align-items: center;
   font-size: calc(10px + 2vmin);

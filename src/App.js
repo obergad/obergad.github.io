@@ -6,6 +6,7 @@ import Header from "./components/Header.js";
 import About from "./components/About.js";
 import Footer from "./components/Footer.js";
 import Skills from "./components/Skills.js";
+import Projects from "./components/Projects.js";
 import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
@@ -22,6 +23,7 @@ function App() {
       <Home />
       <About refr={myRef}/>
       <Skills id="skills" refr={myRef}/>
+      <Projects id="Projects" refr={myRef}/>
       <Footer/>
     </div>
   );
