@@ -10,7 +10,7 @@ function Home() {
         Hi, I'm Adam.
       </p>
       <p className="homeText">
-        Aspiring Graphics Developer
+        Aspiring Graphics / Game Developer
       </p>
       </div>
     );

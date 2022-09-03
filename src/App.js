@@ -23,7 +23,7 @@ function App() {
       <Home />
       <About refr={myRef}/>
       <Skills id="skills" refr={myRef}/>
-      <Projects id="Projects" refr={myRef}/>
+    
       <Footer/>
     </div>
   );
