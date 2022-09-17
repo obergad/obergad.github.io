@@ -1,10 +1,10 @@
 import React, { useRef }  from "react";
 import '../styles/About.css';
-import logo from '../media/me2.jpg';
+import logo from '../media/me_shasta.jpg';
 import github from '../media/github.png';
 import linkedin from '../media/linkedin.png';
 import Button from '@mui/material/Button';
-import Pdf from '../media/resume_v1.2.0.pdf';
+import Pdf from '../media/Resume.pdf';
 import * as Scroll from 'react-scroll';
 import { Link, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 

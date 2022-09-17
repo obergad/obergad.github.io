@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import github from '../media/github.png';
 import linkedin from '../media/linkedin.png';
 import '../styles/App.css';
-import Pdf from '../media/resume_v1.2.0.pdf';
+import Pdf from '../media/Resume.pdf';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
